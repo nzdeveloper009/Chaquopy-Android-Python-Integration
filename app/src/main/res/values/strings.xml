@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Python Code in Android</string>
+    <string name="error_message">Error While Fetching Python Result!!!\nAn error occurred: %1$s</string>
+</resources>
